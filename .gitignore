@@ -1,0 +1,15 @@
+# SwiftPM / Xcode
+.build/
+.swiftpm/
+xcuserdata/
+DerivedData/
+
+# Output of the proto/ tools
+*.bin
+trace_p*.jpg
+/ic_scan
+/list_scanners
+/testpage
+
+# macOS
+.DS_Store
